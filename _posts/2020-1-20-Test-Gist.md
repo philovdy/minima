@@ -8,12 +8,12 @@ date: 2021-1-19
 
 ### MandelBrot Code
 
-{% gist 7711c74 %}
+{% gist 7711c745d83dcd9e215a40c6bc506860 %}
 Ref : https://rembound.com/articles/drawing-mandelbrot-fractals-with-html5-canvas-and-javascript
 
 ### Julia Code
 
-{% gist 6ca1e27 %}
+{% gist 6ca1e27d4adcca98020552f5b3c1a89e %}
 Ref : https://rosettacode.org/wiki/Julia_set
 
 ### Color Palette Code
